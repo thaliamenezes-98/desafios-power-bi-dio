@@ -45,7 +45,7 @@ Segundo desafio do curso: um relatório de duas páginas sobre a base Financial 
 
 ### Página 1 · Report de Lucro Detalhado
 
-![Página 1 do relatório de lucro](desafio-2print_pagina1.png)
+![Página 1 do relatório de lucro](desafio-2/desafio-2print_pagina1.png)
 
 - Árvore de decomposição do lucro por ano e país
 - Medidor (gauge) do lucro total
@@ -54,7 +54,7 @@ Segundo desafio do curso: um relatório de duas páginas sobre a base Financial 
 
 ### Página 2 · Sales Report
 
-![Página 2 do relatório de vendas](desafio-2print_pagina2.png)
+![Página 2 do relatório de vendas](desafio-2/desafio-2print_pagina2.png)
 
 - Segmentador de período
 - Cards com Sales, Units Sold, Discounts, COGS e Profit
@@ -65,7 +65,7 @@ Segundo desafio do curso: um relatório de duas páginas sobre a base Financial 
 
 ### Demonstração
 
-![Demonstração da navegação e dos botões](desafio-2-gif_relatorio.gif)
+![Demonstração da navegação e dos botões](desafio-2/desafio-2-gif_relatorio.gif)
 
 A demonstração mostra a navegação entre as páginas e o funcionamento dos botões, que trocam os visuais de segmento e de país sobre o mesmo assunto.
 
